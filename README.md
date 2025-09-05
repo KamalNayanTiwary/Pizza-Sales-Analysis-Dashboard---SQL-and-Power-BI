@@ -13,7 +13,7 @@ I created **two interactive dashboards** in Power BI:
 - **Best/Worst Sellers Section** – Top & bottom pizzas by revenue, quantity, and orders.
 - **Note:** The dashboard size is comparatively larger than usual. For the best experience, reduce the view to **70%** in Power BI Service — this way you can clearly see all visuals and enjoy exploring the dashboard.
   
-🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/groups/me/reports/704099ef-6ac4-44ed-a3b9-fdcbddc5aea6/fceb6c0946c0fe04611b?experience=power-bi)  
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWY0ZmViMmItNzlhZS00YjVhLTljNDktY2U3ZWRmYjg2N2IzIiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)  
 
 ---
 
