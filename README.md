@@ -20,7 +20,7 @@ I created **two interactive dashboards** in Power BI:
 📊 **Dashboard Overview**  
 
 ### 🏠 Home Section  
-![Home Section](link-to-image-1)  
+![Home Section](https://github.com/KamalNayanTiwary/Pizza-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(Home).png)  
 
 The **Home Section** provides a complete **business snapshot** with high-level KPIs, time-based trends, and category/size breakdowns.  
 
