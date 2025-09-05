@@ -12,7 +12,7 @@ I created **two interactive dashboards** in Power BI:
 - **Home Section** – Sales KPIs, daily/monthly trends, category/size breakdown  
 - **Best/Worst Sellers Section** – Top & bottom pizzas by revenue, quantity, and orders  
 
-🔗 You can explore it **Live** here: [View Dashboard](your-link-here)  
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/groups/me/reports/704099ef-6ac4-44ed-a3b9-fdcbddc5aea6/fceb6c0946c0fe04611b?experience=power-bi)  
 
 ---
 
