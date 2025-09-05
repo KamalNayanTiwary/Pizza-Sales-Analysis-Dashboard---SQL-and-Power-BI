@@ -8,7 +8,7 @@ The dashboard helps business stakeholders monitor **Sales KPIs, Daily & Monthly 
 ---
 
 📊 **Live Dashboard**  
-I created two interactive dashboards in Power BI:  
+I created **two interactive dashboards** in Power BI:  
 - **Home Section** – Sales KPIs, daily/monthly trends, category/size breakdown  
 - **Best/Worst Sellers Section** – Top & bottom pizzas by revenue, quantity, and orders  
 
