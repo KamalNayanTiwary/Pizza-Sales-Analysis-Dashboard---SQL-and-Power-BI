@@ -71,7 +71,7 @@ The **Best & Worst Sellers Section** highlights product-level performance for de
 
 📄 **SQL Queries**  
 You can check the detailed SQL queries I wrote for KPIs, trends, and best/worst sellers here:  
-➡️ [Pizza Sales SQL Queries (PDF)](./PIZZA%20Sales%20SQL%20QUERIES%20by%20Kamal.pdf)
+➡️ [Pizza Sales SQL Queries (PDF)](https://github.com/KamalNayanTiwary/Pizza-Sales-Analysis-Dashboard/blob/main/PIZZA%20Sales%20SQL%20QUERIES%20by%20Kamal.pdf)
 
 ---
 
