@@ -11,7 +11,8 @@ The dashboard helps business stakeholders monitor **Sales KPIs, Daily & Monthly 
 I created **two interactive dashboards** in Power BI:  
 - **Home Section** – Sales KPIs, daily/monthly trends, category/size breakdown  
 - **Best/Worst Sellers Section** – Top & bottom pizzas by revenue, quantity, and orders.
-- **Note:** The dashboard size is comparatively larger than usual. For the best experience, reduce the view to **70%** in Power BI Service — this way you can clearly see all visuals and enjoy exploring the dashboard.  
+- **Note:** The dashboard size is comparatively larger than usual. For the best experience, reduce the view to **70%** in Power BI Service — this way you can clearly see all visuals and enjoy exploring the dashboard.
+  
 🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/groups/me/reports/704099ef-6ac4-44ed-a3b9-fdcbddc5aea6/fceb6c0946c0fe04611b?experience=power-bi)  
 
 ---
