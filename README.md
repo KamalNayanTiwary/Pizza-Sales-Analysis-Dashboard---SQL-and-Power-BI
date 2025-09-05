@@ -18,7 +18,6 @@ I created **two interactive dashboards** in Power BI:
 ---
 
 📊 **Dashboard Overview**  
-
 ### 🏠 Home Section  
 ![Home Section](https://github.com/KamalNayanTiwary/Pizza-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(Home).png)  
 
