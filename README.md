@@ -51,7 +51,7 @@ The **Home Section** provides a complete **business snapshot** with high-level K
 ---
 
 ### ⭐ Best/Worst Sellers Section  
-![Best Sellers Section](link-to-image-2)  
+![Best Sellers Section](https://github.com/KamalNayanTiwary/Pizza-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(B-W-Seller).png)  
 
 The **Best & Worst Sellers Section** highlights product-level performance for decision-making around promotions, menu optimization, and inventory planning.  
 
